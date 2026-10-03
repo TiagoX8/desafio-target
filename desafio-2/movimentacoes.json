@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "codigoProduto": 101,
+    "descricao": "Saída de mercadoria",
+    "quantidade": 2,
+    "estoqueFinal": 148
+  },
+  {
+    "id": 2,
+    "codigoProduto": 105,
+    "descricao": "Entrada de mercadoria",
+    "quantidade": 4,
+    "estoqueFinal": 94
+  }
+]
